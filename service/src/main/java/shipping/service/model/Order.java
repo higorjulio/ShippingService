@@ -1,4 +1,4 @@
-package model;
+package shipping.service.model;
 
 import java.math.BigDecimal;
 
